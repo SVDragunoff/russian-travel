@@ -1,0 +1,38 @@
+.video__item_bg_Observatory{
+  background-image: url(../../../../images/Image_obs.png);
+  background-size: cover;
+  position: absolute;
+  width: 583px;
+  height: 323px;
+  left: 729px;
+}
+@media (max-width : 1280px){
+.video__item_bg_Observatory{
+  width: 583px;
+  height: 323px;
+  left: 649px;
+        
+    }
+}
+@media (max-width : 1024px){
+    .video__item_bg_Observatory{
+  width: 456px;
+  height: 288px;
+  left: 520px;
+            
+        }
+    }
+@media (max-width : 768px){
+    .video__item_bg_Observatory{
+  width: 352px;
+  height: 200px;
+  left: 392px;
+                
+            }
+        }
+@media (max-width : 375px){
+    .video__item_bg_Observatory{
+position: static;
+                        
+                    }
+                }

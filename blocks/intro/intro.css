@@ -1,0 +1,21 @@
+@import url(./__title/intro__title.css);
+@import url(./__text/intro__text_main.css);
+@import url(./__text/intro__text_statistic.css);
+.intro{
+    display: grid;
+    grid-template-rows: auto;
+    position: relative;
+    justify-content: start;
+    margin-left: 14vw;
+    }
+    @media (max-width : 1280px){
+        .intro{
+            margin-left: 10vw;
+        }
+    }
+    @media (max-width : 1024px){
+        .intro{
+            margin-left: 2vw;
+        }
+    }
+    

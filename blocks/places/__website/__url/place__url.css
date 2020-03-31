@@ -1,0 +1,5 @@
+.place__url{
+    color:#FFFFFF;
+}
+.place__url:hover{opacity: 50%;
+    transition: all 1s ease;}

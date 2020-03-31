@@ -1,0 +1,19 @@
+.comments__content-title{
+    font-size: 72px;
+    line-height: 108.9%;
+    text-align: center;
+    width: 80%;
+    margin: 10vw auto;
+    margin-bottom: 1vw;
+}
+@media (max-width : 767px){
+    .comments__content-title{
+  font-size: 42px;
+  line-height: 46px;
+    }
+}
+@media (max-width : 375px){
+    .comments__content-title{
+  font-size: 32px;
+  line-height: 35px;}
+    }

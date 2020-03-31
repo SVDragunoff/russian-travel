@@ -1,0 +1,10 @@
+.video__title{
+  font-size: 36px;
+  line-height: 39px;
+}
+@media (max-width : 768px){
+.video__title{
+  font-size: 24px;
+  line-height: 26px;
+    }
+}

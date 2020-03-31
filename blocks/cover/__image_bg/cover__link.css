@@ -1,0 +1,12 @@
+.cover__link{
+    background-image: url(../../../images/Image_cover.png);
+    text-decoration: none;
+    color: white;
+    min-height: 594px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+    background-size: 100% 100%;
+}
+

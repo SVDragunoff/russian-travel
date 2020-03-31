@@ -1,0 +1,16 @@
+@import url(./_item/video__container_item_Observatory.css);
+@import url(./_item/video__container_item_kamchatka.css);
+@import url(./_item/video__container_item__title.css);
+@import url(./_item/video__container_item_subtitle.css);
+@import url(./_item/video__container_item_icon.css);
+@import url(./_item/video__container_item_duration.css);
+@import url(./_item/video__container_item.css);
+.video__container{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    max-width: 1200px;
+    grid-gap: 5vw;
+    margin: auto;
+    overflow: hidden;
+    
+}

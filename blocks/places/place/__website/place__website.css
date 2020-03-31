@@ -1,0 +1,12 @@
+@import url(./_url-heading/place__website_url-heading.css);
+@import url(./_url/place__website_url.css);
+.place__website{
+    color: #FFFFFF;
+    margin-top: 30%;
+    padding-top: 5vw;
+}
+@media (max-width : 450px){
+    .place__website{
+        margin-top: 0;
+        padding-top: 0;
+    }

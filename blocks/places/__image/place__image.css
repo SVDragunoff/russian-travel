@@ -1,0 +1,7 @@
+.place__image{
+    object-fit: cover;
+    justify-self: end;
+    margin-right: 5%;
+    width: 90%;
+    
+}
