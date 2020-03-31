@@ -1,0 +1,10 @@
+@import url(./comment__autor/comments__comment_autor.css);
+@import url(./comment__image/comments__comment_image.css);
+@import url(./comment__quote/comments__comment_quote.css);
+.comments__comment{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+

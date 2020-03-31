@@ -1,0 +1,14 @@
+@import url(./__item-kamchatka/video__item-kamchatka.css);
+@import url(./__item-observatoriy/video__item-Observatory.css);
+@import url(./__item_title/video__item_title.css);
+@import url(./__item_subtitle/video__item_subtitle.css);
+@import url(./__icon_play/video__icon_play.css);
+@import url(./__item_duration/video__item_duration.css);
+.video__item{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    max-width: 1200px;    
+    margin: auto;
+    
+    
+}

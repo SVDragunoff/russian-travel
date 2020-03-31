@@ -1,9 +1,31 @@
 .cover__subtitle{
-    width: 20vw;
+    width: 25vw;
     text-align: center;
     margin-top: 200px;
     z-index: 1;
 }
+@media (max-width : 1306px){
+    .cover__subtitle{
+width: 30vw;
+        }
+    }
+@media (max-width : 1306px){
+.cover__subtitle{
+  width: 33vw;
+            }
+        }
+@media (max-width : 960px){
+.cover__subtitle{
+  width: 36vw;
+             }
+     }
+@media (max-width : 960px){
+.cover__subtitle{
+  width: 42vw;
+           }
+     }
+
+                    
 @media (max-width : 375px){
     .cover__subtitle{
     font-size: 14px;

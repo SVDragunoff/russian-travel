@@ -1,4 +1,4 @@
-.intro__text_two{
+.intro__text_statistic{
 font-weight: bold;
 font-size: 13px;
 line-height: 20px;
@@ -7,7 +7,7 @@ list-style-type: none;
 padding-left: 0;
 }
 @media (max-width : 375px){
-    .intro__text_one{
+    .intro__text_statistic{
     font-size: 16px;
     line-height: 27px;
         }

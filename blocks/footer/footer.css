@@ -6,8 +6,9 @@
     margin-top: 10vw;
     padding-bottom: 48px;
     margin-left: 2vw;
+    
 }
-@media (max-width : 375px){
+@media (max-width : 724px){
     .footer{
         flex-direction: column;
     }

@@ -1,4 +1,6 @@
 .footer__copyright{
+    font-size: 14px;
+line-height: 20px;
     margin-top: 0;
     display: flex;
     margin-left: 25vw;
@@ -15,10 +17,10 @@
         margin-left: 10vw;
     }
 }
-@media (max-width : 768px){
+@media (max-width : 724px){
     .footer__copyright{
         display: flex;
-        margin-left: 5vw;
+        margin-left: 0vw;
     }
 }
 @media (max-width : 400px){

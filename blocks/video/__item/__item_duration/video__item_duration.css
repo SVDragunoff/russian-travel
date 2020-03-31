@@ -1,0 +1,9 @@
+.video__item_duration{
+  margin-top: 16%;
+  margin-left: 8%;
+}
+@media (max-width : 953px){
+.video__item_duration{
+  margin-bottom:0;
+        }
+    }
