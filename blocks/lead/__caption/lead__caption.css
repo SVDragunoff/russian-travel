@@ -4,7 +4,9 @@
     margin-top: 0;
     position: relative;
     justify-self: baseline;
-    margin-left: 15vw;
+    font-size: 10px;
+    line-height: 12px;
+    
     
     
 }
@@ -12,20 +14,5 @@
     .lead__caption{
         font-size: 10px;
         margin-left: 0;
-    }
-}
-@media (max-width : 1280px){
-    .lead__caption{
-        margin-left: 10vw;
-    }
-}
-@media (max-width : 1024px){
-    .lead__caption{
-        margin-left: 0vw;
-    }
-}
-@media (max-width : 768px){
-    .lead__caption{
-        margin-left: 0vw;
     }
 }

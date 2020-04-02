@@ -1,0 +1,25 @@
+@import url(./__lang/header__lang.css);
+@import url(./__lang/__lang_active/header__lang_active.css);
+
+.header__langs{
+    display: grid;
+    grid-template-columns: 0.3fr 1fr;
+    color: #FFFFFF;
+    margin-top:30px;
+    left: 80%;
+}
+@media (max-width : 1024px){
+    .header__langs{
+    left:70%;
+    }
+}
+@media (max-width : 768px){
+    .header__langs{
+    left:60%;
+    }
+}
+@media (max-width : 375px){
+    .header__langs{
+    left:20%;
+    }
+}

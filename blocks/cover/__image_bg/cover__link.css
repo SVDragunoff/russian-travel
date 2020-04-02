@@ -10,4 +10,9 @@
     background-size: 100% 100%;
     
 }
+.cover__link:hover .cover__container-overlay{
+    
+    transition: background-color linear .3s;
+    background-color: rgba(0, 0, 0, 0.8);
+}
 

@@ -1,4 +1,5 @@
 .place__url-heading{
     justify-self: start;
-    color:#AAAAAA
+    color:#AAAAAA;
+    text-transform: uppercase;
 }
