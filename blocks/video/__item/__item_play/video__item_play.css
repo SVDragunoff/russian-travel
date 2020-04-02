@@ -1,3 +1,4 @@
 .video__item_play:hover{
     background-color: black;
+    position: relative;
 }

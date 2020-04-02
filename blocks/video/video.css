@@ -1,3 +1,4 @@
 @import url(./__item/video__item.css);
 @import url(./__title/video__title.css);
 @import url(./__subtitle/video__subtitle.css);
+@import url(./__item/__item_play/__item_play-overlay/video__item_play-overlay.css);
