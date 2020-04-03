@@ -1,5 +1,11 @@
 @import url(./__nav-link/footer__nav-link.css);
 .footer__nav{
     display: flex;
-    text-decoration: none;
+    list-style-type: none;
+    
+}
+@media (max-width : 724px){
+    .footer__nav{
+        flex-direction: column;
+    }
 }
