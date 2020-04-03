@@ -1,0 +1,8 @@
+.footer__nav-link{
+    color: #FFFFFF;
+    margin-right: 2vw;
+    text-decoration: none;
+}
+.footer__nav-link:hover{
+    opacity: 0.5;
+}

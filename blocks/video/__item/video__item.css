@@ -1,16 +1,18 @@
-@import url(./__item-kamchatka/video__item-kamchatka.css);
-@import url(./__item-observatoriy/video__item-Observatory.css);
+@import url(./__item-bg-kamchatka/video__item-bg-kamchatka.css);
+@import url(./__item-bg-observatoriy/video__item-bg-observatory.css);
 @import url(./__item_title/video__item_title.css);
 @import url(./__item_subtitle/video__item_subtitle.css);
-@import url(./__item_play/video__item_play.css);
+@import url(./__item_icon_play/__item_play-overlay/video__item_play-overlay.css);
 @import url(./__item_duration/video__item_duration.css);
 @import url(./__item_play/__item_play-overlay/video__item_play-overlay.css);
+@import url(./__link/video__link.css);
 
 .video__item{
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
     max-width: 1200px;    
     margin: auto;
+    color: #FFFFFF;;
     
     
     

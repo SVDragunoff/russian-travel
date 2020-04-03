@@ -1,10 +1,10 @@
-.comments__comment_quote{
+.comment__quote{
   font-size: 14px;
   line-height: 24px;
   width: 60%;
 }
 @media (max-width : 768px){
-    .comments__comment_quote{
+    .comment__quote{
         order: 2;
 
         

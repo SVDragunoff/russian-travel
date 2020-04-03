@@ -1,0 +1,5 @@
+@import url(./__nav-link/footer__nav-link.css);
+.footer__nav{
+    display: flex;
+    text-decoration: none;
+}

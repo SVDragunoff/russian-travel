@@ -1,4 +1,4 @@
-.video__item-observatory{
+.video__item-bg-observatory{
   background-image: url(../../../../images/Image_obs.png);
   background-size: cover;
   
@@ -7,7 +7,7 @@
   left: 729px;
 }
 @media (max-width : 1280px){
-.video__item-observatory{
+.video__item-bg-observatory{
   width: 583px;
   height: 323px;
   left: 649px;
@@ -15,7 +15,7 @@
     }
 }
 @media (max-width : 1243px){
-    .video__item-observatory{
+    .video__item-bg-observatory{
   width: 456px;
   height: 288px;
   left: 520px;
@@ -23,7 +23,7 @@
         }
     }
 @media (max-width : 953px){
-    .video__item-observatory{
+    .video__item-bg-observatory{
   width: 352px;
   height: 200px;
   left: 392px;
@@ -31,13 +31,13 @@
             }
         }
 @media (max-width : 778px){
-    .video__item-observatory{
+    .video__item-bg-observatory{
 width: 90%;
                         
                     }
                 }
 @media (max-width : 636px){
-.video__item-observatory{
+.video__item-bg-observatory{
   width: 90%;
                                       
                                   }

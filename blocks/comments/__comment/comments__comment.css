@@ -1,5 +1,5 @@
-@import url(./comment__autor/comments__comment_autor.css);
-@import url(./comment__image/comments__comment_image.css);
+@import url(./comment__autor/comment__autor.css);
+@import url(./comment__image/comment__image.css);
 @import url(./comment__quote/comments__comment_quote.css);
 .comments__comment{
     justify-content: center;
