@@ -18,3 +18,9 @@
             
         }
     }
+@media (max-width : 400px){
+.place__paragraph{
+margin:auto
+              
+          }
+      }
