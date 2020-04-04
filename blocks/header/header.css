@@ -5,3 +5,23 @@
     display: grid;
     grid-template-columns: 6fr 1fr;
 }
+@media (max-width : 718px){
+    .header{
+        grid-template-columns: 5fr 1fr;
+    }
+}
+@media (max-width : 581px){
+    .header{
+        grid-template-columns: 4fr 1fr;
+    }
+}
+@media (max-width : 450px){
+    .header{
+        grid-template-columns: 3fr 1fr;
+    }
+}
+@media (max-width : 400px){
+    .header{
+        grid-template-columns: 2fr 1fr;
+    }
+}
