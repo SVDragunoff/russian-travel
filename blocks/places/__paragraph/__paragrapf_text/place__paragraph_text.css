@@ -1,0 +1,11 @@
+.place__paragraph_text{
+  font-weight: normal;
+  margin-bottom: 36px;
+  margin-top:0
+}
+@media (max-width : 768px){
+  .place__paragraph_text{
+    margin-bottom: 24px;
+          
+      }
+  }

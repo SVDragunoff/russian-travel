@@ -4,6 +4,7 @@
     z-index: 1;
     margin-top:20%;
     text-align: center;
+    font-weight: bold;
 }
 @media (max-width : 375px){
     .cover__title{

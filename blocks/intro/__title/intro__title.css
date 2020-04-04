@@ -1,6 +1,8 @@
 .intro__title{
   font-size: 54px;
   line-height: 59px;
+  margin-top:80px;
+  font-weight: bold;
   
 }
 
@@ -27,6 +29,7 @@
 @media (max-width : 375px){
     .intro__title{
   font-size: 32px;
-  line-height: 35px
+  line-height: 35px;
+  margin-top:64px;
     }
 }

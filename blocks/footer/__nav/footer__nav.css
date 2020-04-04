@@ -2,8 +2,19 @@
 .footer__nav{
     display: flex;
     list-style-type: none;
+    margin-left: 7%;
     
 }
+@media (max-width : 1283px){
+.footer__nav{
+    margin-left: 3%;  
+    }
+}
+@media (max-width : 1025px){
+    .footer__nav{
+        margin-left: 0%;  
+        }
+    }
 @media (max-width : 724px){
     .footer__nav{
         flex-direction: column;

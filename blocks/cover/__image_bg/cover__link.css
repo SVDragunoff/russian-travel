@@ -13,6 +13,6 @@
 .cover__link:hover .cover__container-overlay{
     
     transition: background-color linear .3s;
-    background-color: rgba(0, 0, 0, 0.8);
+    background-color: rgba(0, 0, 0, 0.5);
 }
 

@@ -1,32 +1,35 @@
 .footer__copyright{
-    font-size: 14px;
-line-height: 20px;
-    margin-top: 0;
-    display: flex;
-    margin-left: 25vw;
+  font-size: 14px;
+  line-height: 20px;
+  margin-top: 0;
+  display: flex;
+  margin-left: 19%;
+  margin-bottom: 0;
+  padding-top: 35px;
 }
 @media (max-width : 1280px){
-    .footer__copyright{
-        display: flex;
-        margin-left: 25vw;
+.footer__copyright{
+  display: flex;
+  margin-left: 10%;
     }
 }
-@media (max-width : 1024px){
-    .footer__copyright{
-        display: flex;
-        margin-left: 10vw;
+@media (max-width : 1026px){
+.footer__copyright{
+  display: flex;
+  margin-left: 10%;
     }
 }
-@media (max-width : 724px){
+@media (max-width : 904px){
     .footer__copyright{
         display: flex;
-        margin-left: 0vw;
+        margin-left: 3%;
+        padding-top: 20px;
     }
 }
 @media (max-width : 400px){
     .footer__copyright{
         display: flex;
-        margin-left: 0.5vw;
+       
         margin-top: 1vw;
     }
 }

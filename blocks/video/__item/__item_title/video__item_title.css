@@ -5,16 +5,29 @@
   height: 73px;
   left: calc(50% - 322px/2 - 401px);
   margin-top:0;
-  margin-left: 8%;
+  padding-right: 35%;
+  padding-bottom: 3%;
 
   z-index: 1;
   }
+  @media (max-width : 1025px){
+    .video__item_title{
+      padding-right: 21%;
+      padding-bottom: 3%;
+        }
+    }
   @media (max-width : 953px){
   .video__item_title{
     font-size: 24px;
     line-height: 26px;
     margin-bottom: 0;
-    height: 50%;
+    height: 15%;
     margin-top: 0;
       }
   }
+  @media (max-width : 380px){
+    .video__item_title{
+      padding-left: 4%;
+      
+        }
+    }

@@ -5,6 +5,7 @@
   width: 50%;
   margin: 10vw auto;
   margin-bottom: 0;
+  font-weight: bold;
 }
 @media (max-width : 767px){
     .video__title{

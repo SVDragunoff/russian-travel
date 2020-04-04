@@ -5,4 +5,11 @@
     margin-bottom: 30px;
     margin-left: 8%;
     color: #FFFFFF;
+    padding-left: 5%;
     }
+    @media (max-width : 380px){
+.video__item_subtitle{
+  padding-bottom: 4%;
+          
+            }
+        }
