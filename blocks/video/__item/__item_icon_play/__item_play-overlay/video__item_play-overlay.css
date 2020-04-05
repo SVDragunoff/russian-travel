@@ -8,11 +8,11 @@
     z-index: -1;
     transition: background-color linear .3s;
 }
-.video__item-bg-kamchatka:hover .video__item_play-overlay{
+.video__item_type-kamchatka:hover .video__item_play-overlay{
     transition: background-color linear .3s;
     background-color: rgba(0, 0, 0, 0.5); 
 }
-.video__item-bg-observatory:hover .video__item_play-overlay{
+.video__item_type-observatory:hover .video__item_play-overlay{
     transition: background-color linear .3s;
     background-color: rgba(0, 0, 0, 0.5); 
 }
