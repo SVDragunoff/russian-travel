@@ -27,5 +27,7 @@
 @media (max-width : 375px){
     .header__lang{
     left:20%;
+    font-size: 18px;
+line-height: 17px;
     }
 }

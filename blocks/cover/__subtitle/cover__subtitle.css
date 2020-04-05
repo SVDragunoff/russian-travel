@@ -1,34 +1,32 @@
 .cover__subtitle{
-    width: 25vw;
+    width: 25%;
     text-align: center;
     margin-top: 200px;
     z-index: 1;
 }
 @media (max-width : 1306px){
     .cover__subtitle{
-width: 30vw;
+width: 30%;
         }
     }
 @media (max-width : 1306px){
 .cover__subtitle{
-  width: 33vw;
+  width: 33%;
             }
         }
 @media (max-width : 960px){
 .cover__subtitle{
-  width: 36vw;
-             }
-     }
-@media (max-width : 960px){
-.cover__subtitle{
-  width: 42vw;
+  width: 42%;
+  margin-top: 46px;
            }
      }
 
                     
-@media (max-width : 375px){
+@media (max-width : 380px){
     .cover__subtitle{
     font-size: 14px;
     line-height: 17px;
+    width: 80%;
+    margin-top: 10px;
         }
     }

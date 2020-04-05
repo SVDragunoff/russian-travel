@@ -1,5 +1,5 @@
 .lead__caption{
-    max-width: 48vw;
+    max-width: 48%;
     display: grid;
     margin-top: 0;
     position: relative;
@@ -10,9 +10,13 @@
     
     
 }
-@media (max-width : 375px){
+@media (max-width : 380px){
     .lead__caption{
         font-size: 10px;
-        margin-left: 0;
+        margin-left:16px;
+font-size: 10px;
+line-height: 12px;
+letter-spacing: 0.15em;
+text-transform: uppercase;
     }
 }

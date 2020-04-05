@@ -2,9 +2,10 @@
 @import url(./comment__image/comment__image.css);
 @import url(./comment__quote/comments__comment_quote.css);
 .comments__comment{
-    justify-content: center;
+    
     align-items: center;
     display: flex;
     flex-direction: column;
+    width: 100%;
 }
 

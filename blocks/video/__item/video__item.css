@@ -1,5 +1,5 @@
-@import url(./_type/__item-bg_type-kamchatka/video__item_type-kamchatka.css);
-@import url(./_type/__item-bg_type-observatoriy/video__item_type-observatory.css);
+@import url(./_type/video__item_type-kamchatka.css);
+@import url(./_type/video__item_type-observatory.css);
 @import url(./__item_title/video__item_title.css);
 @import url(./__item_subtitle/video__item_subtitle.css);
 @import url(./__item_icon_play/__item_play-overlay/video__item_play-overlay.css);

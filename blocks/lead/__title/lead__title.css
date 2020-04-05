@@ -1,12 +1,12 @@
 .lead__title{
     color: #FFFFFF;
     width: 55%;    
-    font-size: 6rem;
+    font-size: 96px;
     line-height: 93px;
     text-align: center;
     margin: 48px auto;
-    max-width: 80vw;
-    font-weight: bold;
+    max-width: 80%;
+    font-weight: 900;
     
     
 }
@@ -21,8 +21,11 @@
         width: 100%;
     }
 }
-@media (max-width : 332px){
+@media (max-width : 380px){
     .lead__title{
 margin-left: 5%;
+margin-bottom: 8px;
+font-size: 40px;
+line-height: 44px;
     }
 }

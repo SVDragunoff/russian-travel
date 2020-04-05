@@ -1,9 +1,17 @@
 .comments__container{
     display: flex;
     flex-direction: row;
-    justify-content: center;
+    width: 83%;
+    margin: auto;
+    
     
 }
+@media (max-width : 1281px){
+.comments__container{
+  width: 100%;
+          
+      }
+  }
 @media (max-width : 768px){
 .comments__container{
   flex-direction: column;

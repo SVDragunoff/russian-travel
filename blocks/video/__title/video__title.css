@@ -3,9 +3,14 @@
   line-height: 78px;
   text-align: center;
   width: 50%;
-  margin: 10vw auto;
+  margin: 10% auto;
   margin-bottom: 0;
-  font-weight: bold;
+  font-weight: 900;
+}
+@media (max-width : 1025px){
+  .video__title{
+    width: 69%;
+  }
 }
 @media (max-width : 767px){
     .video__title{

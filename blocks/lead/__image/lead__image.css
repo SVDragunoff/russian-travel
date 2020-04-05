@@ -5,3 +5,8 @@ margin:78px auto;
 margin-bottom: 0;
 overflow: hidden;
 }
+@media (max-width : 380px){
+.lead__image{
+margin-top:0;
+    }
+}

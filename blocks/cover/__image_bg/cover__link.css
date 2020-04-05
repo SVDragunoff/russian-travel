@@ -8,8 +8,19 @@
     align-items: center;
     position: relative;
     background-size: 100% 100%;
-    
+    background-repeat: no-repeat;
+      
 }
+@media (max-width : 780px){
+.cover__link{
+  background-size: 100% 80%;
+                }
+            }
+@media (max-width : 380px){
+.cover__link{
+background-size: 100% 50%;
+                                }
+                            }
 .cover__link:hover .cover__container-overlay{
     
     transition: background-color linear .3s;

@@ -5,9 +5,9 @@
     width: 80%;
     margin: 10vw auto;
     margin-bottom: 1vw;
-    font-weight: bold;
+    font-weight: 900;
 }
-@media (max-width : 767px){
+@media (max-width : 769px){
     .comments__content-title{
   font-size: 42px;
   line-height: 46px;

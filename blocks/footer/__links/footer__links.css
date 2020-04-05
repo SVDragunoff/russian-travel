@@ -10,10 +10,18 @@
   line-height: 27px;
         }
     }
-    @media (max-width : 768px){
-        .footer__links{
-          font-size: 16px;
-          line-height: 27px;
-          flex-direction: column;
+@media (max-width : 758px){
+.footer__links{
+  font-size: 16px;
+  line-height: 27px;
+  flex-direction: column;
                 }
             }
+@media (max-width : 758px){
+.footer__links{
+  font-size: 16px;
+  line-height: 27px;
+  flex-direction: column;
+  padding-left:0;
+                              }
+                          }

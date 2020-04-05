@@ -1,12 +1,21 @@
 .comment__quote{
   font-size: 14px;
   line-height: 24px;
-  width: 60%;
+  width: 90%;
 }
 @media (max-width : 768px){
     .comment__quote{
         order: 2;
+        width: 45%;
 
         
     }
+}
+@media (max-width : 380px){
+  .comment__quote{
+      order: 2;
+      width: 70%;
+
+      
+  }
 }
