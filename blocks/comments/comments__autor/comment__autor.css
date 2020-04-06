@@ -1,0 +1,21 @@
+.comments__autor{
+  font-size: 14px;
+  line-height: 22px;
+  
+}
+@media (max-width : 1280px){
+  .comments__autor{
+     margin-bottom: 102px;
+      
+
+      
+  }
+}
+@media (max-width : 768px){
+    .comments__autor{
+        order: 1;
+        
+
+        
+    }
+}

@@ -1,4 +1,4 @@
-.video__title{
+.video__content-title{
   font-size: 72px;
   line-height: 78px;
   text-align: center;
@@ -8,19 +8,19 @@
   font-weight: 900;
 }
 @media (max-width : 1025px){
-  .video__title{
+  .video__content-title{
     width: 69%;
   }
 }
 @media (max-width : 767px){
-    .video__title{
+    .video__content-title{
   font-size: 42px;
   line-height: 46px;
   width:54%;
     }
 }
 @media (max-width : 438px){
-    .video__title{
+    .video__content-title{
    font-size: 32px;
    line-height: 35px;
    width: 95%;

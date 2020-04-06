@@ -10,7 +10,7 @@
 @media (max-width : 1280px){
 .footer__copyright{
   display: flex;
-  margin-left: 10%;
+  margin-left: 26%;
     }
 }
 @media (max-width : 1026px){
@@ -30,6 +30,6 @@
     .footer__copyright{
         display: flex;
        
-        margin-top: 1vw;
+        margin-top: 1%;
     }
 }

@@ -1,21 +1,21 @@
-.video__item_subtitle{
+.video__subtitle{
     font-size: 14px;
     line-height: 15px;
-    margin-top: 0;
-    margin-bottom: 30px;
-    margin-left: 8%;
+    margin-top: 18px;
+    margin-left: 30px;
     color: #FFFFFF;
-    padding-left: 5%;
+    margin-bottom: 0;
+
     }
 
 @media (max-width : 769px){
-.video__item_subtitle{
+.video__subtitle{
   padding-top: 5%;
                   
                     }
                 }
     @media (max-width : 380px){
-.video__item_subtitle{
+.video__subtitle{
   padding-bottom: 4%;
           
             }
