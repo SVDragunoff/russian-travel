@@ -23,7 +23,7 @@
   @media (max-width: 400px) {
 .place__image {
   margin:auto;
-  width: 85%;
+  width: 100%;
       
     }
   }

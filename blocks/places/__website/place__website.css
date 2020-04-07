@@ -5,10 +5,12 @@
     margin-top: 30%;
     
 }
-@media (max-width : 450px){
+@media (max-width : 600px){
     .place__website{
         margin-top: 0;
         padding-top: 0;
         margin-left: 10%;
+        visibility: hidden;
+        
     }
 }
