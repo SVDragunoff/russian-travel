@@ -3,25 +3,28 @@
 
 .header{
     display: grid;
-    grid-template-columns: 6fr 1fr;
+    grid-template-columns: 1fr 1fr;
+    
 }
 @media (max-width : 1024px){
     .header{
         grid-template-columns: 5fr 1fr;
+        width: 95%;
     }
 }
 
 @media (max-width : 769px){
     .header{
         grid-template-columns: 4fr 1fr;
+        width: 95%;
     }
 }
-@media (max-width : 450px){
+@media (max-width : 600px){
     .header{
         grid-template-columns: 3fr 1fr;
     }
 }
-@media (max-width : 400px){
+@media (max-width : 500px){
     .header{
         grid-template-columns: 2fr 1fr;
     }

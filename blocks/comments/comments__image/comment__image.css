@@ -1,4 +1,13 @@
 .comments__image{
   border-radius: 97px;
   overflow: hidden;
+  align-self: flex-start;
+  margin-left: 48px;
+}
+@media (max-width : 768px){
+.comments__image{
+  align-self: auto;
+
+      
+  }
 }

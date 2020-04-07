@@ -3,7 +3,7 @@
 .place__website{
     color: #FFFFFF;
     margin-top: 30%;
-    padding-top: 5%;
+    
 }
 @media (max-width : 450px){
     .place__website{

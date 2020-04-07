@@ -8,15 +8,17 @@
 
     }
 
-@media (max-width : 769px){
+
+@media (max-width : 770px){
 .video__subtitle{
-  padding-top: 5%;
+  margin-left: 24px;
+  margin-top: 24px;
                   
                     }
                 }
     @media (max-width : 380px){
 .video__subtitle{
-  padding-bottom: 4%;
+  
           
             }
         }

@@ -12,8 +12,7 @@
   }
   @media (max-width : 1025px){
     .video__title{
-      padding-right: 21%;
-      padding-bottom: 3%;
+ 
         }
     }
   @media (max-width : 953px){
@@ -25,9 +24,14 @@
     margin-top: 0;
       }
   }
+  @media (max-width : 770px){
+    .video__title{
+    margin-left: 24px;
+                         }
+                    }
   @media (max-width : 380px){
     .video__title{
-      padding-left: 4%;
+      
       
         }
     }

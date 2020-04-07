@@ -9,13 +9,13 @@
 }
 @media (max-width : 1281px){
 .place__title{
-  margin-left: 22%;
+  margin-left: 21%;
             
         }
     }
 @media (max-width : 1024px){
 .place__title{
-  margin-left: 5%;
+  margin-left: 48px;
   font-size: 42px;
   line-height: 46px;
   margin-bottom: 40px;

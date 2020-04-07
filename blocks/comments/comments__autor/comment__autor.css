@@ -1,6 +1,8 @@
 .comments__autor{
   font-size: 14px;
   line-height: 22px;
+  align-self: flex-start;
+    margin-left: 48px;
   
 }
 @media (max-width : 1280px){
@@ -14,6 +16,8 @@
 @media (max-width : 768px){
     .comments__autor{
         order: 1;
+        align-self: auto;
+        margin-bottom: 24px;
         
 
         

@@ -10,6 +10,8 @@
 @media (max-width : 1025px){
   .video__content-subtitle{
     width:70%;
+    margin-bottom: 73px;
+    margin-top: 48px;
       }
   }
 @media (max-width : 767px){

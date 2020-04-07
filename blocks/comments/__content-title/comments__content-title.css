@@ -2,10 +2,15 @@
     font-size: 72px;
     line-height: 108.9%;
     text-align: center;
-    width: 80%;
-    margin: 10vw auto;
-    margin-bottom: 1vw;
+    width: 70%;
+    margin: 10% auto;
+    margin-bottom: 48px;
     font-weight: 900;
+}
+@media (max-width : 1025px){
+  .comments__content-title{
+    width: 75%;
+  }
 }
 @media (max-width : 769px){
     .comments__content-title{

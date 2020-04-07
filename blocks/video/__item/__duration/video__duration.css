@@ -1,19 +1,26 @@
 .video__duration{
   color: #FFFFFF;
-  padding-left: 30px;
+  margin-left: 30px;
   font-size: 16px;
   line-height: 23px;
   margin-top: 94px;
   margin-bottom: 12px;
   
 }
-@media (max-width : 953px){
+@media (max-width : 1243px){
 .video__duration{
+  margin-top: 54px;
   margin-bottom:0;
         }
     }
     @media (max-width : 953px){
       .video__duration{
         margin-bottom:0;
-        padding-top: 9%;        }
+        margin-top: 17px;
+               }
           }
+@media (max-width : 770px){
+.video__duration{
+margin-left: 24px;
+                     }
+                }
