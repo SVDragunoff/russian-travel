@@ -2,8 +2,15 @@
 @import url(./place__website_url.css);
 .place__website{
     color: #FFFFFF;
-    margin-top: 30%;
+    align-self: end;
+    margin-bottom: 60px;
     
+}
+@media (max-width : 768px){
+    .place__website{
+margin-bottom: 51px;
+        
+    }
 }
 @media (max-width : 600px){
     .place__website{

@@ -4,11 +4,23 @@ color: #FFFFFF;
 width: 40%;
 max-width: 100%;
 margin-top: 0;
+margin-bottom:0;
 font-size: 30px;
 line-height: 36px;
 font-weight: normal;
 
 }
+@media (max-width : 1024px){
+.lead__subtitle{
+    width: 60%;   
+    }
+}
+@media (max-width : 770px){
+.lead__subtitle{
+  width: 90%;   
+        }
+    }
+
 @media (max-width : 767px){
     .lead__subtitle{
         font-size: 16px;

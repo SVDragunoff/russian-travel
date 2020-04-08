@@ -3,12 +3,13 @@
     display: grid;
     grid-template-columns: repeat(4, 1fr);
     grid-template-rows: repeat(3, 1fr);
-    width: 80%;
+    width: 85%;
     margin: auto;
     grid-row-gap: 2%;
     grid-column-gap: 2%;
     max-width: 1184px;
-    margin-top: 10%;
+    margin-top: 8%;
+    
     
 }
 @media(max-width : 1280px){

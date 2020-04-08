@@ -5,20 +5,12 @@
     display: grid;
     grid-template-columns: 1fr 1fr;
     
-}
-@media (max-width : 1024px){
-    .header{
-        grid-template-columns: 5fr 1fr;
-        width: 95%;
-    }
+    
+    
 }
 
-@media (max-width : 769px){
-    .header{
-        grid-template-columns: 4fr 1fr;
-        width: 95%;
-    }
-}
+
+
 @media (max-width : 600px){
     .header{
         grid-template-columns: 3fr 1fr;

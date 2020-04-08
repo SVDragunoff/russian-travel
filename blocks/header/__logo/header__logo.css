@@ -2,6 +2,19 @@
 width: 176.58px;
 height: 52px;
 margin-top: 30px;
-margin-left: 10%;
+margin-left: 128px;
 color:#FFFFFF;
 }
+@media (max-width : 1280px){
+.logo{
+  margin-left: 48px;
+        }
+    }
+@media (max-width : 539px){
+.logo{
+  width: 142px;
+  margin-top: 16px;
+  margin-left: 16px;
+    }
+}
+

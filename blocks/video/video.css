@@ -2,4 +2,7 @@
 @import url(./video__content-title/video__content-title.css);
 @import url(./__content-subtitle/video__content-subtitle.css);
 
+.video{
+    overflow-x: hidden;
+}
 

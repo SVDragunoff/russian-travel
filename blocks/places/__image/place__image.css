@@ -5,10 +5,11 @@
     
     
 }
-@media (max-width: 1023px) {
+@media (max-width: 1024px) {
 .place__image {
   max-width: 85%;
   margin-left: 48px;
+  margin-right: 32px;
       
     }
   }

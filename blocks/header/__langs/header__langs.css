@@ -5,23 +5,27 @@
   display: flex;
   color: #FFFFFF;
   margin-top:30px;
-  left: 80%;
+  justify-content:flex-end;
   font-size: 24px;
   line-height: 23px;
   position: relative;
+  margin-right: 128px;
+  margin-top: 47px;
 }
-@media (max-width : 1024px){
-    .header__langs{
-    left:70%;
+
+@media (max-width : 1280px){
+.header__langs{
+  margin-right: 48px;    
     }
 }
 @media (max-width : 768px){
-    .header__langs{
-    left:50%;
+.header__langs{
+  margin-right: 24px;  
     }
 }
-@media (max-width : 330px){
-    .header__langs{
-    left:30%;
+@media (max-width : 376px){
+.header__langs{
+  margin-right: 16px;
+  margin-top: 33px; 
     }
 }
