@@ -11,12 +11,7 @@
 @media (max-width : 780px){
 .cover__container-overlay{
   width: 100%;
-  height: 80%;
+  height: 100%;
                     }
                 }
-@media (max-width : 780px){
-.cover__container-overlay{
-width: 100%;
-height: 50%;
-                                        }
-                                    }
+

@@ -4,6 +4,7 @@
 @import url(./__website/place__website.css);
 
 
+
 .place{
     display: grid;
     grid-template-columns: 1fr 1fr;
@@ -11,6 +12,6 @@
 @media (max-width : 600px){
     .place{
         display: grid;
-        grid-template-columns: 1fr;
+        grid-template-columns: 97%;
     }
 }

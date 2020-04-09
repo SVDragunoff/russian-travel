@@ -11,9 +11,19 @@
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
     max-width: 1200px;    
-    margin: auto;
+    margin: 0 2% 0 2%;
     color: #FFFFFF; 
-    grid-gap: 8px;
-    
-            
+    grid-gap: 8px;         
+}
+@media (max-width : 755px){
+.video__item{
+  width: 93%;
+  margin: 0 0 0 0;
+  
+                         }
+                    }
+@media (max-width : 380px){
+.video__item{
+width: 100%;
+}
 }

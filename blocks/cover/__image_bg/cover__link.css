@@ -13,12 +13,18 @@
 }
 @media (max-width : 780px){
 .cover__link{
-  background-size: 100% 80%;
+  min-height: 500px;  
                 }
             }
+@media (max-width : 700px){
+.cover__link{
+min-height: 272px;  
+
+                                }
+                            }
 @media (max-width : 380px){
 .cover__link{
-background-size: 100% 50%;
+
                                 }
                             }
 .cover__link:hover .cover__container-overlay{

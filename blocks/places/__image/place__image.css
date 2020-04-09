@@ -13,9 +13,11 @@
       
     }
   }
-  @media (max-width: 767px) {
+  @media (max-width: 768px) {
 .place__image {
-  max-width: 100%;
+  max-width: 89%;
+  margin-left: 24px;
+  margin-right: 28px;
   height: auto;
   object-fit: cover;
       
@@ -24,7 +26,7 @@
   @media (max-width: 400px) {
 .place__image {
   margin:auto;
-  width: 100%;
+  max-width: 100%;
       
     }
   }

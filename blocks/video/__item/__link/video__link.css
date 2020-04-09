@@ -5,8 +5,10 @@
     z-index: 0;
 }
 @media (max-width : 1024px){
-.video__link{
-  
-               
+.video__link{ 
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+                  
             }
         }

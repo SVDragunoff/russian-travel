@@ -1,4 +1,4 @@
-@import url(./place__paragraph_text.css);
+@import url(./place__text.css);
 .place__paragraph{
   width: 70%;
   font-size: 18px;
@@ -18,15 +18,17 @@
       }
 
 @media (max-width : 768px){
-    .place__paragraph{
-      font-size: 16px;
-      line-height: 27px;
+.place__paragraph{
+  font-size: 16px;
+  line-height: 27px;
+  width:96%;
             
         }
     }
 @media (max-width : 400px){
 .place__paragraph{
-margin:auto
+margin:auto;
+width: 95%;
               
           }
       }

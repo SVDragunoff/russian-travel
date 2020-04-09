@@ -1,12 +1,19 @@
 .video__content-subtitle{
   width: 40%;
   text-align: center;
-  margin: 4% auto;
+  margin: 3.5% auto;
   font-weight: normal;
   font-size: 24px;
   line-height: 35px;
+  margin-bottom: 5%;
 
 }
+@media (max-width : 1280px){
+  .video__content-subtitle{
+    width:50%;
+    
+      }
+  }
 @media (max-width : 1025px){
   .video__content-subtitle{
     width:70%;
@@ -14,9 +21,10 @@
     margin-top: 48px;
       }
   }
-@media (max-width : 767px){
+@media (max-width : 768px){
 .video__content-subtitle{
-  width:70%;
+  width: 84%;
+  margin-bottom: 50px;
     }
 }
 @media (max-width : 375px){
