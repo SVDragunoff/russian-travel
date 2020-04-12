@@ -11,14 +11,14 @@
     background-repeat: no-repeat;
       
 }
-@media (max-width : 780px){
+@media (max-width : 900px){
 .cover__link{
   min-height: 500px;  
                 }
             }
 @media (max-width : 700px){
 .cover__link{
-min-height: 272px;  
+min-height: 216px;  
 
                                 }
                             }

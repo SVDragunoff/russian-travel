@@ -5,6 +5,7 @@
   line-height: 13px;
   margin-top: 94px;
   margin-bottom: 12px;
+  letter-spacing: 0.3em;
   
 }
 @media (max-width : 1243px){
@@ -24,3 +25,8 @@
 margin-left: 24px;
                      }
                 }
+@media (max-width : 400px){
+.video__duration{
+width: 50%;
+                                       }
+                                  }

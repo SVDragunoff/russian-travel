@@ -7,7 +7,7 @@
 @media (max-width : 768px){
 .comments__image{
   align-self: auto;
-
+  margin-left:0;
       
   }
 }

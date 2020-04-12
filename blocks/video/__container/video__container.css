@@ -1,0 +1,14 @@
+.video__container{
+    margin: auto;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    max-width: 1200px;    
+    justify-items: center;
+    grid-gap: 16px;  
+}
+@media (max-width : 325px){
+.video__container{
+  grid-template-columns: 288px;
+     
+          }
+      }

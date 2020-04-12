@@ -24,10 +24,16 @@
   width:54%;
     }
 }
+@media (max-width : 500px){
+  .video__content-title{
+width:95%;
+  }
+}
 @media (max-width : 438px){
     .video__content-title{
    font-size: 32px;
    line-height: 35px;
    width: 95%;
+   margin-top:64px
     }
 }

@@ -21,5 +21,7 @@
 @media (max-width : 375px){
     .comments__content-title{
   font-size: 32px;
-  line-height: 35px;}
+  line-height: 35px;
+  margin-top: 64px;
+}
     }

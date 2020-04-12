@@ -4,6 +4,7 @@
   width: 583px;
   height: 323px;
   left: 729px;
+  justify-self: self-start;
 }
 @media (max-width : 1280px){
 .video__item_type-observatory{
@@ -29,15 +30,17 @@
                 
             }
         }
-@media (max-width : 778px){
-    .video__item_type-observatory{
-width: 100%;
-                        
-                    }
-                }
 @media (max-width : 636px){
 .video__item_type-observatory{
   width: 90%;
-                                      
+                                    
                                   }
                               }
+@media (max-width : 230px){
+.video__item_type-observatory{
+  height: 192px;
+  width: 100%;
+                            
+                                                    
+                                                }
+                                            }

@@ -27,11 +27,17 @@
   margin-bottom: 50px;
     }
 }
+@media (max-width : 500px){
+.video__content-subtitle{
+  width: 94%;
+ 
+      }
+  }
 @media (max-width : 375px){
 .video__content-subtitle{
   font-size: 16px;
   line-height: 23px;
-  width:70%;
+  width:80%;
   font-size: 16px;
   line-height: 23px;
         }

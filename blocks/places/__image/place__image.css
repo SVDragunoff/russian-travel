@@ -23,6 +23,14 @@
       
     }
   }
+  @media (max-width: 767px) {
+.place__image {
+  justify-self: center;
+  width: 100%;
+  max-width: 95%;
+          
+        }
+      }
   @media (max-width: 400px) {
 .place__image {
   margin:auto;

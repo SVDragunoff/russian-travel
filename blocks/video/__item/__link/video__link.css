@@ -12,3 +12,9 @@
                   
             }
         }
+@media (max-width : 325px){
+.video__link{ 
+    width: 288px;
+                              
+                        }
+                    }

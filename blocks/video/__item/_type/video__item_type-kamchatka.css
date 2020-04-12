@@ -4,6 +4,7 @@
   width: 583px;
   height: 323px;
   left: 128px;
+  justify-self: flex-end;
 }
 @media (max-width : 1280px){
 .video__item_type-kamchatka{
@@ -29,15 +30,17 @@
           
     }
 }
-@media (max-width : 778px){
-.video__item_type-kamchatka{
-  width: 100%;
-        
-    }
-}
+
 @media (max-width : 636px){
 .video__item_type-kamchatka{
   width: 90%;
+  justify-self: self-start;
       
   }
 }
+@media (max-width : 230px){
+.video__item_type-kamchatka{
+  height: 192px;
+  width: 100%;
+    }
+  }
