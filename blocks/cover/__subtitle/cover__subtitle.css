@@ -1,13 +1,13 @@
 .cover__subtitle{
     width: 30%;
     text-align: center;
-    margin-top: 134px;
+    margin-top: 12%;
     z-index: 1;
     margin-bottom:48px;
 }
 @media (max-width : 1306px){
     .cover__subtitle{
-width: 30%;
+width: 35%;
         }
     }
     @media (max-width : 1024px){
@@ -24,7 +24,7 @@ width: 30%;
      }
 
                     
-@media (max-width : 380px){
+@media (max-width : 440px){
     .cover__subtitle{
     font-size: 14px;
     line-height: 17px;
@@ -32,3 +32,4 @@ width: 30%;
     margin-top: 10px;
         }
     }
+    

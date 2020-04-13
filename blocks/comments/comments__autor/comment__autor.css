@@ -8,7 +8,7 @@
 }
 @media (max-width : 1280px){
   .comments__autor{
-     margin-bottom: 102px;
+     margin-bottom: 0;
            
   }
 }
