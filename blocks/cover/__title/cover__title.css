@@ -2,10 +2,11 @@
     font-size: 72px;
     line-height: 78px;
     z-index: 1;
-    margin-top:25%;
+    margin-top:23%;
     text-align: center;
     font-weight: 900;
     margin-bottom: 0;
+    position: absolute;
 }
 
 @media (max-width : 1026px){
@@ -15,9 +16,10 @@
         }
     }
 
-@media (max-width : 1000px){
+@media (max-width : 1020px){
     .cover__title{
-width:100%;
+        width: 72%;
+        margin-top: 21%;
         }
     }
 
@@ -27,3 +29,14 @@ width:100%;
         line-height: 35px;
         }
     }
+@media (max-width : 375px){
+.cover__title{
+    margin-top: 28%;
+            }
+        }
+@media (max-width : 375px){
+.cover__title{
+margin-top: 20%;
+width: 80%;
+                        }
+                    }    
